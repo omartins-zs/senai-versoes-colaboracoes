@@ -92,6 +92,15 @@ Readme desenvolvido por **[Gabriel Martins](https://www.linkedin.com/in/gabriel-
 - git push origin --tags
 >publicar as tags no repositório remoto  
 
+- git branch
+>mostra as branch local
+
+- git branch -a
+>mostra todas as branchs
+ 
+ - git fetch
+>atualiza a visualização das branchs localmente
+
 <table>
             <tr>
                 <th colspan="4">Desafio de versionamento Branch</th>
