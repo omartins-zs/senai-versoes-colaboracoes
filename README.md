@@ -101,6 +101,9 @@ Readme desenvolvido por **[Gabriel Martins](https://www.linkedin.com/in/gabriel-
  - git fetch
 >lista e atualiza a visualização das branchs localmente
 
+- git checkout " "(depois de checkout a branch que voce quer ir)
+>mudança de branch(se nao tiver a branch ira cria-la)
+
 <table>
             <tr>
                 <th colspan="4">Desafio de versionamento Branch</th>
