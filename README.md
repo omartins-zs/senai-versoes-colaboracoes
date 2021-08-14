@@ -99,7 +99,7 @@ Readme desenvolvido por **[Gabriel Martins](https://www.linkedin.com/in/gabriel-
 >mostra todas as branchs
  
  - git fetch
->atualiza a visualização das branchs localmente
+>lista e atualiza a visualização das branchs localmente
 
 <table>
             <tr>
